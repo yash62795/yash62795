@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @yash62795
-- 👀 I’m interested in ...android app developement    
-- 🌱 I’m currently learning ...cybersecurity 
-- 💞️ I’m looking to collaborate on ...selling app development 
-- 📫 How to reach me ...yash62795@gmail.com 
+- 👋 Hi, I’m @grootechyp
+- 👀 I'm Developer
+- 🌱 I’m currently learning ...AI/Ml and Blockchain
+
 
 <!---
 yash62795/yash62795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
